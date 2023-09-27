@@ -1,0 +1,31 @@
+body
+{
+    background-color:rgba(208, 218, 226, 0.829);
+}
+
+.Focim
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tanulnivalok
+{
+    font-size: 23px;
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.kép
+{
+    max-height: 600px;
+    max-width: 600px;
+}
